@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CincoCSharp", "CincoCSharp\CincoCSharp.csproj", "{C259EB39-3043-4340-9624-1FBFB3B815CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C259EB39-3043-4340-9624-1FBFB3B815CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C259EB39-3043-4340-9624-1FBFB3B815CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C259EB39-3043-4340-9624-1FBFB3B815CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C259EB39-3043-4340-9624-1FBFB3B815CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3EF6A64-B079-44E2-8F1F-226F986E00A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.exe
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.deps.json
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.runtimeconfig.json
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.dll
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\bin\Debug\net7.0\UmCSharp.pdb
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.dll
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\refint\UmCSharp.dll
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.pdb
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\UmCSharp.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\SCI - Projeto de Estágio para Desenvolvimento\UmCSharp\UmCSharp\obj\Debug\net7.0\ref\UmCSharp.dll
